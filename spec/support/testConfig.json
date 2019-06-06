@@ -1,0 +1,6 @@
+{
+    "integration" : {
+        "singlestoneBaseURL" : "https://www.singlestoneconsulting.com/",
+        "wikipediaServiceBaseUrl": "https://en.wikipedia.org/api/rest_v1"
+    }
+}
